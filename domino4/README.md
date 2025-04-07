@@ -7,7 +7,7 @@
 
 ## 🎬 실행 영상
 
-👉 [영상 보러 가기 (YouTube)](https://youtu.be/abc123XYZ](https://youtu.be/mCubjcwqom4)
+👉 [영상 보러 가기 (YouTube)]((https://youtu.be/mCubjcwqom4)](https://youtu.be/mCubjcwqom4?si=puU295NH2Ie_GV3d)
 
 > ⬆️ 링크 클릭
 
