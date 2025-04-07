@@ -65,6 +65,6 @@ sudo ./domino.sh
 - **이전 LED 끄기 → 현재 LED 켜기 → sleep → 다음** 으로 이동 방식
 
 ## 📸 회로 구성 
-(회로 연결 사진 또는 작동 영상이 있다면 여기에 첨부하면 좋아요!)
+<img src="images/IMG_0577.jpg">
 
 
