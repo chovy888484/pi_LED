@@ -49,10 +49,6 @@ sudo ./counter8.sh
 - 1초 간격으로 자동 카운트 반복
 - Ctrl + c 누르면 모든 LED 꺼지고 종료
 
-# LED Binary Counter 동작 방식
-
-## 🔁 동작 방식
-
 아래 표는 숫자에 따라 LED가 어떻게 켜지는지를 보여줍니다.
 
 ```bash
