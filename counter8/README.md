@@ -27,6 +27,8 @@ sudo apt install gpiod
   - **GPIO 26** -> 최하위 비트(LSB)
 - 각 GPIO 핀은 LED의 **양극(+)** 에 연결하고, **음극(-)** 은 저항을 통해 GND에 연결
 
+<img src="https://github.com/chovy888484/pi_LED/blob/535043cc3ef1441c88c66db4ad5c93fd21f3654d/images/IMG_0577.jpg">
+
 ## ▶️ 실행 방법
 
 1. 실행권한 부여
