@@ -3,6 +3,13 @@
 이 프로젝트는 **Raspberry Pi**의 GPIO 핀을 사용하여 **LED가 도미노처럼 순환하며 점등되는 효과**를 구현한 Bash 스크립트입니다.  
 스크립트 실행 시 LED는 순서대로 하나씩 켜지고, 이전 LED는 꺼지며, 마지막 LED와 첫 번째 LED 사이도 자연스럽게 연결됩니다.
 
+## 🎬 실행 영상
+
+[![영상](https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg)](https://youtu.be/abc123XYZ)
+
+> ⬆️ 링크 클릭
+
+
 ## 🛠️ 사용 환경
 
 - Raspberry Pi 5 (또는 libgpiod 기반 GPIO 지원 보드)
@@ -57,7 +64,7 @@ sudo ./domino.sh
 
 - **이전 LED 끄기 → 현재 LED 켜기 → sleep → 다음** 으로 이동 방식
 
-## 📸 결과 예시 (선택)
+## 📸 회로 구성 
 (회로 연결 사진 또는 작동 영상이 있다면 여기에 첨부하면 좋아요!)
 
 
