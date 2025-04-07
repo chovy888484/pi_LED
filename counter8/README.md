@@ -1,6 +1,6 @@
 # 🔢LED Binary Counter (Raspberry Pi + GPIO)
 
-<img src="https://github.com/chovy888484/pi_LED/blob/535043cc3ef1441c88c66db4ad5c93fd21f3654d/images/IMG_0577.jpg">
+<img src="https://github.com/chovy888484/pi_LED/blob/c4725f0ccdbb7f9f8a4470c428edd25439001994/images/counter.png">
 
 이 프로젝트는 Raspberry Pi의 GPIO 핀을 이용해 **LED로 이진 카운터(0~7)를 표현하는** Bash 스크립트입니다.  
 LED는 0.5~1초 간격으로 카운팅되며, **2진수 비트에 따라 ON/OFF가 결정됩니다**.  
