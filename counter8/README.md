@@ -10,7 +10,7 @@ LED는 0.5~1초 간격으로 카운팅되며, **2진수 비트에 따라 ON/OFF�
 
 ## 🎬 실행영상
 
-[![도미노 LED 데모 영상](https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg)](https://youtu.be/abc123XYZ)
+👉 [영상 보러 가기 (YouTube)]([(https://youtu.be/mCubjcwqom4)](https://youtu.be/mCubjcwqom4?si=puU295NH2Ie_GV3d)](https://youtu.be/-1P36T0tAYo?si=770eI3dkxxCPVkRi)
 
 > ⬆️ 링크 클릭
 
