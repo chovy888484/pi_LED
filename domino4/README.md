@@ -17,3 +17,24 @@
 sudo apt update
 sudo apt install gpiod
 ```
+
+### 2. 회로구성
+
+- 총 4개의 LED와 저항 연결
+- Raspberry Pi GPIO핀: **26, 19, 27, 17** 사용
+- 각 핀은 LED의 **양극(+)** 에 연결되고, **음극(-)** 은 저항을 통해 GND로 연결
+
+▶️ 실행 방법
+
+1. 실행권한 부여
+
+```bash
+chmod +x domino4.sh
+```
+
+2. 스크립트 실행
+
+```bash
+sudo ./domino.sh
+```
+⚠️ 반드시 sudo로 실행해야 GPIO 접근이 가능합니다.
