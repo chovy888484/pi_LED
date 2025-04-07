@@ -7,7 +7,7 @@
 
 ## 🎬 실행 영상
 
-[![영상]](https://youtu.be/abc123XYZ](https://youtu.be/mCubjcwqom4))
+[![영상]([https://youtu.be/abc123XYZ](https://youtu.be/mCubjcwqom4))
 
 > ⬆️ 링크 클릭
 
