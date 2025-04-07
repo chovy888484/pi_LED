@@ -1,10 +1,17 @@
-# 🔢 Mission C - LED Binary Counter (Raspberry Pi + GPIO)
+# 🔢LED Binary Counter (Raspberry Pi + GPIO)
 
 이 프로젝트는 Raspberry Pi의 GPIO 핀을 이용해 **LED로 이진 카운터(0~7)를 표현하는** Bash 스크립트입니다.  
 LED는 0.5~1초 간격으로 카운팅되며, **2진수 비트에 따라 ON/OFF가 결정됩니다**.  
 스크립트를 실행하면 LED가 **0부터 7까지 반복해서 점등되며**, 사용자가 `Ctrl + C`를 누르면 모든 LED는 꺼집니다.
 
 ---
+
+## 🎬 실행영상
+
+[![도미노 LED 데모 영상](https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg)](https://youtu.be/abc123XYZ)
+
+> ⬆️ 링크 클릭
+
 
 ## 🛠️ 시스템 환경
 
