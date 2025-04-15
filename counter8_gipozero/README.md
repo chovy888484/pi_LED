@@ -25,7 +25,7 @@ LED는 0.5~1초 간격으로 카운팅되며, **2진수 비트에 따라 ON/OFF�
 
 ```bash
 sudo apt update
-sudo apt install gpiod
+pip install gpiozero
 ```
 
 ## 🧰 하드웨어 구성
@@ -40,17 +40,14 @@ sudo apt install gpiod
 
 ## ▶️ 실행 방법
 
-1. 실행권한 부여
+1. 코드 파일 다운로드 또는 복사
 
-```bash
-chmod +x counter8.sh
-```
+파일명: counter8.py
 
 2. 실행
 ```bash
-sudo ./counter8.sh
+python3 binary_counter.py
 ```
-⚠️ 반드시 sudo로 실행해야 GPIO 접근이 가능합니다.
 
 
 ## 🔁 동작 방식
