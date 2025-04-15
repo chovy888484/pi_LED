@@ -57,6 +57,25 @@ python3 binary_counter.py
 - 1초 간격으로 자동 카운트 반복
 - Ctrl + c 누르면 모든 LED 꺼지고 종료
 
+
+ ## 🧠 코드 구조 요약
+
+ - LEDBoard(27, 19, 26)
+→ BCM 번호 기준으로 3개의 GPIO 핀을 묶어 LED 그룹 생성 (MSB → LSB 순서)
+
+ - for i in range(8)
+→ 0부터 7까지 3비트 이진 카운터 루프 실행
+
+ - bit = (i >> (2 - bit_pos)) & 1
+→ 현재 숫자의 각 비트를 추출 (MSB부터)
+
+ - leds[bit_pos].on() / .off()
+→ 비트 값이 1이면 LED ON, 0이면 OFF
+
+ - try ~ except KeyboardInterrupt
+→ Ctrl + C로 종료 시 모든 LED 정리
+
+
 아래 표는 숫자에 따라 LED가 어떻게 켜지는지를 보여줍니다.
 
 ```bash
