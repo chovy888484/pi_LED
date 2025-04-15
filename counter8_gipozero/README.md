@@ -76,7 +76,8 @@ python3 binary_counter.py
 → Ctrl + C로 종료 시 모든 LED 정리
 
 
---
+---
+
 아래 표는 숫자에 따라 LED가 어떻게 켜지는지를 보여줍니다.
 
 ```bash
