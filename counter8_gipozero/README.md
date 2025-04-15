@@ -10,7 +10,7 @@ LED는 0.5~1초 간격으로 카운팅되며, **2진수 비트에 따라 ON/OFF�
 
 ## 🎬 실행영상
 
-👉 [영상 보러 가기 (YouTube)]([https://youtu.be/mCubjcwqom4?si=puU295NH2Ie_GV3d)](https://youtu.be/-1P36T0tAYo?si=770eI3dkxxCPVkRi](https://youtu.be/dFZOxpbfkcI))
+👉 [영상 보러 가기 (YouTube)](https://youtu.be/-1P36T0tAYo?si=770eI3dkxxCPVkRi](https://youtu.be/dFZOxpbfkcI))
 
 > ⬆️ 링크 클릭
 
