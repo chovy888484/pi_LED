@@ -37,16 +37,13 @@ pip install gpiozero
 
 ▶️ 실행 방법
 
-1. 실행권한 부여
+1. 코드 파일 다운로드 또는 복사
 
+파일명: counter8.py
+
+2. 실행
 ```bash
-chmod +x domino4.sh
-```
-
-2. 스크립트 실행
-
-```bash
-sudo ./domino.sh
+python3 binary_counter.py
 ```
 
 
