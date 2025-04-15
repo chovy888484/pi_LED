@@ -1,4 +1,4 @@
-# 🔁 도미노 LED 순환 제어 (Raspberry Pi + GPIO + gpiozero)
+# 🔁 도미노 LED 순환 제어 (Raspberry Pi + GPIO + GPIOZERO)
 
 <img src="https://github.com/chovy888484/pi_LED/blob/9b57ecd31cfae4da564b0ae0292d8419b103704e/images/domino.png">
 
@@ -8,7 +8,7 @@ LED는 순서대로 하나씩 켜지고 이전 LED는 꺼지며, 마지막 LED �
 
 ## 🎬 실행 영상
 
-👉 [영상 보러 가기 (YouTube)]](https://youtu.be/mCubjcwqom4?si=puU295NH2Ie_GV3d)
+👉 [영상 보러 가기 (YouTube)]]([https://youtu.be/mCubjcwqom4?si=puU295NH2Ie_GV3d](https://youtu.be/BlbjoJ85mbI))
 
 > ⬆️ 링크 클릭
 
