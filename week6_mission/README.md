@@ -40,3 +40,45 @@ Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사�
 ```bash
 sudo apt update
 pip install gpiozero
+```
+
+2. 원하는 코드 실행
+
+```bash
+python3 mission1.py
+# 또는
+python3 mission2.py
+.
+.
+```
+
+---
+
+
+🧠 주요 코드 설명
+
+mission1.py
+버튼을 누르고 있는 동안 모든 LED ON
+
+손을 떼면 자동으로 OFF
+
+mission2.py
+버튼을 누를 때마다 전체 LED 상태 토글
+
+ON → OFF → ON 반복
+
+
+mission3.py
+버튼을 누르면 LED가 순서대로 켜졌다 꺼짐
+
+도미노처럼 흐르며 한 번 점등
+
+
+mission4.py
+버튼을 누를 때마다 숫자 1씩 증가 (0~15)
+
+LED 4개에 이진수로 출력
+콘솔에 Count: 0101처럼 출력됨
+
+🎥 시연 영상
+YouTube 링크: Domino / Binary Counter 영상 보기
