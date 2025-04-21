@@ -6,6 +6,9 @@
 Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사용하여 간결하고 직관적으로 작성되었습니다.
 
 ---
+## 🎥 시연 영상
+YouTube 링크: Domino / Binary Counter 영상 보기
+
 
 ## 📁 프로젝트 목록
 
@@ -80,5 +83,3 @@ ON → OFF → ON 반복
 LED 4개에 이진수로 출력
 콘솔에 Count: 0101처럼 출력됨
 
-🎥 시연 영상
-YouTube 링크: Domino / Binary Counter 영상 보기
