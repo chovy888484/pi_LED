@@ -57,24 +57,24 @@ python3 mission2.py
 
 🧠 주요 코드 설명
 
-mission1.py
+`mission1.py`
 버튼을 누르고 있는 동안 모든 LED ON
 
 손을 떼면 자동으로 OFF
 
-mission2.py
+`mission2.py`
 버튼을 누를 때마다 전체 LED 상태 토글
 
 ON → OFF → ON 반복
 
 
-mission3.py
+`mission3.py`
 버튼을 누르면 LED가 순서대로 켜졌다 꺼짐
 
 도미노처럼 흐르며 한 번 점등
 
 
-mission4.py
+`mission4.py`
 버튼을 누를 때마다 숫자 1씩 증가 (0~15)
 
 LED 4개에 이진수로 출력
