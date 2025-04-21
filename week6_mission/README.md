@@ -29,7 +29,7 @@ Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사�
   - **LED**: 26 (LSB), 19, 27, 17 (MSB)
   - **버튼**: 25
 
-<img src=(https://github.com/chovy888484/pi_LED/blob/1b207d69b1db4307b81b8b74e6eebe9d19f0efa9/images/mission2.jpg), width="400" alt="회로 사진">
+<img src= "https://github.com/chovy888484/pi_LED/blob/1b207d69b1db4307b81b8b74e6eebe9d19f0efa9/images/mission2.jpg"width="400" alt="회로 사진">
 
 ---
 
