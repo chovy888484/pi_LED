@@ -11,10 +11,10 @@ Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사�
 
 | 프로젝트 이름 | 설명 |
 |---------------|------|
-| 🔢 `binary_counter.py` | 버튼을 누를 때마다 0~15까지 4비트 이진 카운팅 |
-| 🔁 `domino4.py` | 버튼을 누르면 LED가 순차적으로 도미노처럼 점등 |
-| ⬆️ `press_hold_leds.py` | 버튼을 누르고 있는 동안만 모든 LED ON |
-| 🔄 `toggle_leds.py` | 버튼을 누를 때마다 LED 전체 ON/OFF 전환 |
+| ⬆️ `mission1.py` | 버튼을 누르고 있는 동안만 모든 LED ON |
+| 🔄 `mission2.py` | 버튼을 누를 때마다 LED 전체 ON/OFF 전환 |
+| 🔁 `mission3.py` | 버튼을 누르면 LED가 순차적으로 도미노처럼 점등 |
+| 🔢 `mission4.py` | 버튼을 누를 때마다 0~15까지 4비트 이진 카운팅 |
 
 ---
 
@@ -22,7 +22,7 @@ Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사�
 
 - Raspberry Pi (모델 4/5 등)
 - 5mm LED × 4개
-- 330Ω 저항 × 4개
+- 330Ω 저항 × 5개
 - 버튼 (푸시 스위치) × 1개
 - 브레드보드, 점퍼 와이어
 - 사용 핀 (BCM 번호 기준)
