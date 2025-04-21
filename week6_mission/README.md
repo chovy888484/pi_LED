@@ -1,6 +1,6 @@
 # 🔌 Raspberry Pi GPIO LED Projects (gpiozero)
 
-<img src= https://github.com/chovy888484/pi_LED/blob/1b207d69b1db4307b81b8b74e6eebe9d19f0efa9/images/mission2.jpg width="400">
+<img src= "https://github.com/chovy888484/pi_LED/blob/1b207d69b1db4307b81b8b74e6eebe9d19f0efa9/images/mission2.jpg" width="400">
 
 이 저장소는 **Raspberry Pi의 GPIO 핀을 사용한 4가지 LED 제어 예제**를 담고 있습니다.  
 Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사용하여 간결하고 직관적으로 작성되었습니다.
