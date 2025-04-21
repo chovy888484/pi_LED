@@ -1,0 +1,42 @@
+# 🔌 Raspberry Pi GPIO LED Projects (gpiozero)
+
+<img src="https://github.com/사용자이름/저장소이름/blob/main/images/banner.png" alt="banner" width="600">
+
+이 저장소는 **Raspberry Pi의 GPIO 핀을 사용한 4가지 LED 제어 예제**를 담고 있습니다.  
+Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사용하여 간결하고 직관적으로 작성되었습니다.
+
+---
+
+## 📁 프로젝트 목록
+
+| 프로젝트 이름 | 설명 |
+|---------------|------|
+| 🔢 `binary_counter.py` | 버튼을 누를 때마다 0~15까지 4비트 이진 카운팅 |
+| 🔁 `domino4.py` | 버튼을 누르면 LED가 순차적으로 도미노처럼 점등 |
+| ⬆️ `press_hold_leds.py` | 버튼을 누르고 있는 동안만 모든 LED ON |
+| 🔄 `toggle_leds.py` | 버튼을 누를 때마다 LED 전체 ON/OFF 전환 |
+
+---
+
+## 🧰 하드웨어 구성
+
+- Raspberry Pi (모델 4/5 등)
+- 5mm LED × 4개
+- 330Ω 저항 × 4개
+- 버튼 (푸시 스위치) × 1개
+- 브레드보드, 점퍼 와이어
+- 사용 핀 (BCM 번호 기준)
+  - **LED**: 26 (LSB), 19, 27, 17 (MSB)
+  - **버튼**: 25
+
+<img src="https://github.com/사용자이름/저장소이름/blob/main/images/IMG_0577.jpg" width="400" alt="회로 사진">
+
+---
+
+## ▶️ 실행 방법
+
+1. 의존 패키지 설치 (한 번만 하면 됨)
+
+```bash
+sudo apt update
+pip install gpiozero
