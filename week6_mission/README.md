@@ -7,7 +7,7 @@ Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사�
 
 ---
 ## 🎥 시연 영상
-👉 [영상 보러 가기 (YouTube)](https://youtu.be/BlbjoJ85mbI)
+👉 [영상 보러 가기 (YouTube)](https://www.youtube.com/watch?v=m2wNeIaG1OA)
 
 > ⬆️ 링크 클릭
 
