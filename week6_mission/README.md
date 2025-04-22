@@ -7,8 +7,9 @@ Python의 [`gpiozero`](https://gpiozero.readthedocs.io/) 라이브러리를 사�
 
 ---
 ## 🎥 시연 영상
-YouTube 링크: Domino / Binary Counter 영상 보기
+👉 [영상 보러 가기 (YouTube)]]([[https://youtu.be/mCubjcwqom4?si=puU295NH2Ie_GV3d](https://youtu.be/BlbjoJ85mbI)])
 
+> ⬆️ 링크 클릭
 
 ## 📁 프로젝트 목록
 
